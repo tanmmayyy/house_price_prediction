@@ -175,7 +175,7 @@ POST /predict_home_price
 
 **Tanmay Jain**
 - GitHub: [@tanmmayyy](https://github.com/tanmmayyy)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/tanmay-jain-a706a428a/)
+- LinkedIn: [Tanmay Jain](https://www.linkedin.com/in/tanmay-jain-a706a428a/)
 
 ## 🙏 Acknowledgments
 
