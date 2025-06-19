@@ -170,15 +170,12 @@ POST /predict_home_price
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 👥 Author
 
-**Your Name**
+**Tanmay Jain**
 - GitHub: [@tanmmayyy](https://github.com/tanmmayyy)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/tanmay-jain-a706a428a/)
 
 ## 🙏 Acknowledgments
 
